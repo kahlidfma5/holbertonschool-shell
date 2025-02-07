@@ -1,7 +1,2 @@
 #!/bin/bash
-touch hello
-chmod 751 hello
-chown julien:julien helloß
-echo -n "Hello, Julien!
-Good day." > helloÿ®
-touch -t 202309201425 hello
+chmod 753 hello
